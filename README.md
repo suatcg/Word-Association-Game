@@ -5,17 +5,17 @@ small vanilla javascript featerus , therefore I could sharpened and used pure js
 Some of the day , this kind of projects helps you out the daily practice and beside all of this stuff , I could see the another perspective that showed
 Ania approaches to javascript feateures.
 
-##Author
+## Author
 
 -My LinkedIn Profile[@suatcangeyik](https://www.linkedin.com/in/suatcangeyik/)
 -My Personal Twitter Account-[@suatcg](https://twitter.com/suatcg)
 
-###Links
+### Links
 
 -Live Site:[Live Site](https://wordassociationgame-suatcg.netlify.app/)
 -Ania Kubów YouTube Channel:[YouTube](https://www.youtube.com/c/AniaKub%C3%B3w)
 
-###Built with
+### Built with
 
 -HTML
 -CSS
