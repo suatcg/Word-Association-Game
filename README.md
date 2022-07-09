@@ -6,18 +6,21 @@ Some of the day , this kind of projects helps you out the daily practice and bes
 Ania approaches to javascript feateures.
 
 ##Author
+
 -My LinkedIn Profile[@suatcangeyik](www.linkedin.com/in/suatcangeyik)
 -My Personal Twitter Account-[@suatcg](https://twitter.com/suatcg)
 
 ###Links
+
 -Live Site:[Live Site](https://wordassociationgame-suatcg.netlify.app/)
 -Ania Kubów YouTube Channel:[YouTube](https://www.youtube.com/c/AniaKub%C3%B3w)
 
 ###Built with
-HTML
-CSS
-Flexbox
-Vanilla JS
+
+-HTML
+-CSS
+-Flexbox
+-Javascript
 
 
 
