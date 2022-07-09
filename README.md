@@ -7,7 +7,7 @@ Ania approaches to javascript feateures.
 
 ##Author
 
--My LinkedIn Profile[@suatcangeyik](www.linkedin.com/in/suatcangeyik)
+-My LinkedIn Profile[@suatcangeyik](https://www.linkedin.com/in/suatcangeyik/)
 -My Personal Twitter Account-[@suatcg](https://twitter.com/suatcg)
 
 ###Links
