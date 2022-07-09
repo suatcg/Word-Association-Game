@@ -7,20 +7,20 @@ Ania approaches to javascript feateures.
 
 ## Author
 
--My LinkedIn Profile[@suatcangeyik](https://www.linkedin.com/in/suatcangeyik/)
--My Personal Twitter Account-[@suatcg](https://twitter.com/suatcg)
+- My LinkedIn Profile[@suatcangeyik](https://www.linkedin.com/in/suatcangeyik/)
+- My Personal Twitter Account-[@suatcg](https://twitter.com/suatcg)
 
 ### Links
 
--Live Site:[Live Site](https://wordassociationgame-suatcg.netlify.app/)
--Ania Kubów YouTube Channel:[YouTube](https://www.youtube.com/c/AniaKub%C3%B3w)
+- Live Site:[Live Site](https://wordassociationgame-suatcg.netlify.app/)
+- Ania Kubów YouTube Channel:[YouTube](https://www.youtube.com/c/AniaKub%C3%B3w)
 
 ### Built with
 
--HTML
--CSS
--Flexbox
--Javascript
+- HTML
+- CSS
+- Flexbox
+- Javascript
 
 
 
